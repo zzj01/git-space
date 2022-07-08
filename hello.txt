@@ -3,11 +3,8 @@ hello world!!!
 hello world!!!
 hello world!!!
 hello world!!!
-<<<<<<< HEAD
 hello world!!! 000000
 hello world!!!
-=======
 hello world!!!
 hello world!!! 666666
->>>>>>> master
 99999999999999 hahahahah
